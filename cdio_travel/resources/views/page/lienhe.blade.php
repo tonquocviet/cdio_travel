@@ -29,7 +29,7 @@
 				<p><span>Email :</span> <a href="mailto:info@yoursite.com">info@teamcdio_445.com</a></p>
 			</div>
 			<div class="col-md-3">
-				<p><span>Website</span> <a href="{{route('trangchu')}}">StartTravel.com</a></p>
+				<p><span>Website</span> <a href="{{route('trangchu')}}">StartDTUTravel.com</a></p>
 			</div>
 		</div>
 		<div class="row block-9">
@@ -51,7 +51,7 @@
 						<input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
 					</div>
 				</form>
-				
+
 			</div>
 			{{-- <div class="col-md-6" id="map"></div> --}}
 			<div id="map" style="width:500px;height:500px;">
